@@ -33,5 +33,12 @@
         "img": "https://i.ibb.co/nbJxcp2/81-PLqxtr-J3-L-SX466.png",
         "price": 18,
         "quantity": 1
+},
+    {
+        "id_product": 5,
+        "product_name": "Power Supply",
+        "img": "https://i.ibb.co/44DVKL1/orig.png",
+        "price": 180,
+        "quantity": 1
 }
 ]
